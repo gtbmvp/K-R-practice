@@ -57,5 +57,6 @@ void unescape(const char *s, char *t) {
 }
 
 int main() {
+    printf("test\n");
     return 0;
 }
